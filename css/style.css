@@ -1,0 +1,19 @@
+.link-externo {
+  padding: 13px;
+  border: 1px solid #d6d6d6;
+  display: inline-block;
+  border-radius: 4px;
+  margin: 0 0 15px 15px;
+  vertical-align: top;
+}
+.link-externo:hover {
+  border-color: rgb(125, 192, 230);
+}
+
+.link-externo strong {
+  display: block;
+}
+.link-externo span {
+  display: block;
+  max-width: 500px;
+}
