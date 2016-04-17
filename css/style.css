@@ -1,9 +1,14 @@
+#lista-links {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 .link-externo {
   padding: 13px;
   border: 1px solid #d6d6d6;
   display: inline-block;
   border-radius: 4px;
-  margin: 0 0 15px 15px;
+  margin: 15px;
   vertical-align: top;
 }
 .link-externo:hover {
@@ -15,5 +20,4 @@
 }
 .link-externo span {
   display: block;
-  max-width: 500px;
 }
