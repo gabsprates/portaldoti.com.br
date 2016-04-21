@@ -43,7 +43,25 @@ function addNode(pai, elem, text) {
 
 // Busca
 function Busca(fORM) {
+  var str = fORM.busca.value.toLowerCase();
 
+	var links = document.querySelectorAll(".link-externo");
+  Array.prototype.map.call(links, function(obj) {
+    obj.classList.remove("none");
+  });
+
+	var tags = document.querySelectorAll(".link-externo:not([data-about*='" + str + "'])");
+  Array.prototype.map.call(tags, function (obj) {
+    obj.classList.add("none");
+  });
+
+	if (!str) {
+    Array.prototype.map.call(links, function(obj) {
+      obj.classList.remove("none");
+    });
+	}
+
+  return false;
 }
 
 
@@ -62,6 +80,7 @@ ajax("GET", "./links.json", function(data) {
     link.href = data[i].url;
     link.title = data[i].titulo;
     link.setAttribute('target', '_blank');
+    link.setAttribute('data-about', data[i].titulo.concat(" - ", data[i].about).toLowerCase());
     link.classList.add("link-externo");
   }
 });
