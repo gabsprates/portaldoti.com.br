@@ -25,3 +25,10 @@
 .none {
   display: none;
 }
+
+@media (max-width: 600px) {
+  .link-externo {
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+}
