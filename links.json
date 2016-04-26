@@ -188,5 +188,12 @@
     "tags": [
 
     ]
+  }, {
+    "titulo": "Elixir",
+    "about": "Elixir é uma linguagem funcional e dinâmica, projetada para a construção de aplicações escaláveis e sustentáveis.",
+    "url": "http://elixir-lang.org/",
+    "tags": [
+    
+    ]
   }
 ]}
