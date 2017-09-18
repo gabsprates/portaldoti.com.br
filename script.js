@@ -68,10 +68,12 @@ function Busca(fORM) {
 
 
 ajax("GET", "./links.json", function(data) {
+
   data = JSON.parse(data).links;
 
   var numLinks = data.length;
   var lista = document.getElementById('lista-links');
+  lista.innerHTML = "";
 
   for (var i = 0; i < numLinks; i++) {
     var link = addNode(lista, 'a');
@@ -82,5 +84,12 @@ ajax("GET", "./links.json", function(data) {
     link.setAttribute('target', '_blank');
     link.setAttribute('data-about', data[i].titulo.concat(" - ", data[i].about).toLowerCase());
     link.classList.add("link-externo");
+    var cxTags = addNode(link, 'span');
+    cxTags.classList.add("cxtags");
+    var tags = data[i].tags;
+    tags.map(function(tag) {
+      var eTag = addNode(cxTags, 'span', tag);
+      eTag.classList.add(tag);
+    });
   }
 });

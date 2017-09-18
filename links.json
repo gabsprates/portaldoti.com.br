@@ -3,197 +3,141 @@
     "titulo": "DuckDuckGo",
     "about": "Buscador open-source com a proposta de não te rastrear.",
     "url": "http://duckduckgo.com",
-    "tags": [
-
-    ]
+    "tags": ["search", "open-source"]
   }, {
     "titulo": "Patternify",
     "about": "Gerador de imagens PNG em base64 com dataURI.",
     "url": "http://www.patternify.com/",
-    "tags": [
-
-    ]
+    "tags": ["css", "images"]
   }, {
     "titulo": "Easing Functions Cheat Sheet",
     "about": "Esta página ajuda você a escolher a função de atenuação para animações, isso especifica a variação de um parâmetro ao longo do tempo.",
     "url": "http://easings.net/",
-    "tags": [
-
-    ]
+    "tags": ["css", "js"]
   }, {
     "titulo": "PageSpeed Insights",
     "about": "Aplicação do Google desenvolvida para verificar velocidade e usabilidade dos sites.",
     "url": "https://developers.google.com/speed/pagespeed/insights/",
-    "tags": [
-
-    ]
+    "tags": ["dev"]
   }, {
     "titulo": "Font Squirrel",
     "about": "Font Squirrel é um ótimo recurso para escolher fontes de alta qualidade, além de possuir um gerador de '@font-face'.",
     "url": "http://www.fontsquirrel.com/",
-    "tags": [
-
-    ]
+    "tags": ["fonts"]
   }, {
     "titulo": "Tableless",
     "about": "Portal brasileiro onde podemos ficar bem informados das novas tecnologias.",
     "url": "http://tableless.com.br/",
-    "tags": [
-
-    ]
+    "tags": ["news"]
   }, {
     "titulo": "You Might Not Need jQuery",
     "about": "Exemplos de como fazer operações de eventos comuns, elementos, Ajax e utilitário com javascript simples... Sem jQuery.",
     "url": "http://youmightnotneedjquery.com/",
-    "tags": [
-
-    ]
+    "tags": ["js", "dom"]
   }, {
     "titulo": "Learning JavaScript Design Patterns",
     "about": "Um livro open-source sobre Design Patterns em JavaScript.",
     "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/",
-    "tags": [
-
-    ]
+    "tags": ["js"]
   }, {
     "titulo": "Dive Into HTML5",
     "about": "Dive Into HTML5 procura elaborar uma seleção de funcionalidades da especificação da HTML5 e outras especificações interessantes escolhidas a dedo.",
     "url": "http://diveintohtml5.com.br/",
-    "tags": [
-
-    ]
+    "tags": ["html"]
   }, {
     "titulo": "Can I use... Support tables for HTML5, CSS3, etc",
     "about": "Ficou na dúvida sobre compatibilidade dos browsers? No Can I Use você consegue saber se pode usar.",
     "url": "http://caniuse.com/",
-    "tags": [
-
-    ]
+    "tags": ["dev"]
   }, {
     "titulo": "CodePen",
     "about": "CodePen é um playground para o lado do front-end da web. É tudo sobre inspiração, educação, e partilha.",
     "url": "http://codepen.io/",
-    "tags": [
-
-    ]
+    "tags": ["dev"]
   }, {
     "titulo": "RegExr: Learn, Build, & Test RegEx",
     "about": "Guia e testes para expressões regulares.",
     "url": "http://www.regexr.com/",
-    "tags": [
-
-    ]
+    "tags": ["dev", "regex"]
   }, {
     "titulo": "PHP: Do Jeito Certo",
     "about": "Uma referência rápida de melhores práticas de PHP, renomados padrões de código e links para tutoriais competentes pela Web.",
     "url": "http://br.phptherightway.com/",
-    "tags": [
-
-    ]
+    "tags": ["php"]
   }, {
     "titulo": "Free Online IDE and Terminal",
     "about": "IDE e Terminal gratuito e online - editar, compilar, executar e compartilhar programas on-line. Você pode salvar seus projetos ao Dropbox, GitHub, Google Drive e onedrive para ser acessado em qualquer lugar e a qualquer momento.",
     "url": "http://www.tutorialspoint.com/codingground.htm",
-    "tags": [
-
-    ]
+    "tags": ["dev"]
   }, {
     "titulo": "PHP: PHP type comparison tables - Manual",
     "about": "Esta página demonstra o comportamento dos tipos e operadores de comparação no PHP, tanto para comparações frouxas ou rígidas.",
     "url": "http://php.net/types.comparisons",
-    "tags": [
-
-    ]
+    "tags": ["php"]
   }, {
     "titulo": "Ceweb.br",
     "about": "O Ceweb.br é um departamento do NIC.br para viabilizar a participação da comunidade brasileira no desenvolvimento global da Web e subsidiar a formulação de políticas públicas, com a missão de promover atividades que estimulem o uso de tecnologias abertas e padronizadas na Web.",
     "url": "http://ceweb.br/",
-    "tags": [
-
-    ]
+    "tags": ["news"]
   }, {
     "titulo": "Web Hypertext Application Technology Working Group",
     "about": "O WHATWG é uma crescente comunidade de pessoas interessadas na evolução da Web. Ele se concentra principalmente no desenvolvimento de HTML e APIs necessárias para aplicativos da Web.",
     "url": "https://whatwg.org/",
-    "tags": [
-
-    ]
+    "tags": ["news"]
   }, {
     "titulo": "InfoQ: Software Development News, Videos & Books",
     "about": "InfoQ.com é um site de notícias da comunidade, orientada para o praticante, focado em facilitar a difusão do conhecimento e da inovação no desenvolvimento de software profissional.",
     "url": "http://www.infoq.com/",
-    "tags": [
-
-    ]
+    "tags": ["news"]
   }, {
     "titulo": "JS: The Right Way",
     "about": "Uma rápida referência às melhores práticas para escrever JavaScript - links para padrões de código e tutoriais de todo a web.",
     "url": "http://jstherightway.org/pt-br/",
-    "tags": [
-
-    ]
+    "tags": ["js"]
   }, {
     "titulo": "Como perder peso (no browser)",
     "about": "O guia definitivo de performance front-end.",
     "url": "https://browserdiet.com/pt/",
-    "tags": [
-
-    ]
+    "tags": ["dev"]
   }, {
     "titulo": "Code Beautify",
     "about": "Ferramentas on-line com embelezadores, editores, espectadores, minifier, validadores, conversores para desenvolvedores: XML, JSON, CSS, JavaScript, Java, C #, XML, SQL, CSV, Excel.",
     "url": "http://codebeautify.org/",
-    "tags": [
-
-    ]
+    "tags": ["dev"]
   }, {
     "titulo": "Your Web, documented · WebPlatform.org",
     "about": "Documentação de tecnologias Web, desenvolvida por grandes empresas como W3C, Intel, Mozilla, Google, etc.",
     "url": "http://www.webplatform.org/",
-    "tags": [
-
-    ]
+    "tags": ["dev"]
   }, {
     "titulo": "Viva o Linux",
     "about": "Comunidade brasileira de usuários de Linux. Fóruns, artigos e notícias. Da comunidade, para a cominidade",
     "url": "http://www.vivaolinux.com.br/",
-    "tags": [
-
-    ]
+    "tags": ["linux"]
   }, {
     "titulo": "Linux Descomplicado | A linha de comando nunca mais será a mesma",
     "about": "Blog sobre assuntos Linux. De fácil acesso a todos usuários interessados em aprender a usar o sistema Linux!",
     "url": "http://www.linuxdescomplicado.com.br/",
-    "tags": [
-
-    ]
+    "tags": ["linux"]
   }, {
     "titulo": "Fedora Documentation",
     "about": "Documentação para a distribuição GNU/Linux Fedora.",
     "url": "http://docs.fedoraproject.org/",
-    "tags": [
-
-    ]
+    "tags": ["linux"]
   }, {
     "titulo": "regex101.com",
     "about": "Ferramenta para teste e aprendizado de expressões regulares.",
     "url": "https://regex101.com/",
-    "tags": [
-
-    ]
+    "tags": ["regex", "dev"]
   }, {
     "titulo": "Aprender Haskell será um grande bem para você!",
     "about": "Este é um guia para iniciantes em Haskell. Haskell é uma linguagem de programação funcional.",
     "url": "http://haskell.tailorfontela.com.br/",
-    "tags": [
-
-    ]
+    "tags": ["haskell"]
   }, {
     "titulo": "Elixir",
     "about": "Elixir é uma linguagem funcional e dinâmica, projetada para a construção de aplicações escaláveis e sustentáveis.",
     "url": "http://elixir-lang.org/",
-    "tags": [
-    
-    ]
+    "tags": ["elixir"]
   }
 ]}
