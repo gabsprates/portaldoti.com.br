@@ -139,5 +139,17 @@
     "about": "Elixir é uma linguagem funcional e dinâmica, projetada para a construção de aplicações escaláveis e sustentáveis.",
     "url": "http://elixir-lang.org/",
     "tags": ["elixir"]
+  }, {
+    "titulo": "You Don't Know JS",
+    "about": "Esta é uma série de livros que mergulha profundamente nos mecanismos fundamentais da linguagem JavaScript.",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "tags": [
+    ]
+  }, {
+    "titulo": "Gogs - Go Git Service",
+    "about": "Um serviço de Git auto-hospedado e amigável escrito em Go",
+    "url": "https://gogs.io/",
+    "tags": [
+    ]
   }
 ]}
